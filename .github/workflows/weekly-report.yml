@@ -2,8 +2,8 @@ name: Weekly AI Market Report
 
 on:
   schedule:
-    # Every Monday at 08:00 UTC
-    - cron: '0 8 * * 1'
+    # Every Monday at 01:00 UTC (Beijing 09:00)
+    - cron: '0 1 * * 1'
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
