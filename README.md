@@ -1,6 +1,6 @@
 # AISTORE Analytics — AI 市场自动分析系统
 
-每周自动搜索最新 AI 市场数据，生成可视化分析报告，部署到 GitHub Pages。
+每周自动搜索最新 AI 市场数据，生成可视化分析报告，部署到 GitHub Pages
 
 ## 快速开始
 
