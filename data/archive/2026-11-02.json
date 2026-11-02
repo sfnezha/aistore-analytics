@@ -1,0 +1,678 @@
+{
+  "generated_at": "2026-11-02T06:55:50.807137+00:00",
+  "generated_date": "2026-11-02",
+  "queries": {
+    "traffic_ranking": {
+      "purpose": "AI tool traffic rankings",
+      "query": "top AI websites traffic ranking monthly visits 2025 2026 ChatGPT Gemini DeepSeek Claude Perplexity",
+      "answer": "According to the sources, in January 2026, ChatGPT had 64.5% of the Gen AI traffic share with 5.4 billion monthly visits, while Gemini had 21.5% with 1.1 billion visits. By September 2026, the traffic share for ChatGPT had dropped to 56.4%, but its monthly visits increased to 5.9 billion. Gemini's share rose to 25.0% with 2.6 billion visits. Other platforms like DeepSeek, Grok, Copilot, and Perplexity saw their combined share fall, with Perplexity experiencing a significant decline to 0.9% of global generative AI web traffic.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "Gen AI Website Traffic Share Report – Feb 2026",
+          "url": "https://thedigitalbloom.com/learn/gen-ai-website-traffic-share-february-2026",
+          "snippet": "|  |  |  |  |  |  |\n ---  ---  --- |\n| Platform | Jan 2026 Traffic Share | Jan 2025 Share | YoY Change | Monthly Visits (Jan 2026) | Strategic Implication |\n| ChatGPT | 64.5% | 86.7% | -22.2 pts | 5.4B | Diversification required; monopoly era is over |\n| Gemini | 21.5% | 5.7% | +15.8 pts | 1.1B | Essential priority for Google ecosystem brands |\n| DeepSeek | 4.2% | <1% | New Entrant | N/A | Captures technical and developer queries |\n| Grok | 3%+ | <1% | +2 pts+ | 29.6M | High momentum via X/Twitt"
+        },
+        {
+          "title": "The 7 most-used AI chatbots ranked by share of web traffic in 2026",
+          "url": "https://qz.com/most-used-ai-chatbots-web-traffic-2026-visual-capitalist",
+          "snippet": "Gemini and Claude gained a combined 18.7 points over the same span, more than ChatGPT's full decline. The 3.3-point gap between those figures matches what DeepSeek, Grok, Copilot, and Perplexity surrendered together. ChatGPT's loss ran more than four times as large. Neither rival offset the drop by itself. The reshuffling moved a large block of web traffic without pushing OpenAI's chatbot below a majority.\n\nChatGPT has regained ground since April 2026. Its portion fell 18.1 points between Octobe"
+        },
+        {
+          "title": "Ranked: The Most Used AI Chatbots in 2026",
+          "url": "https://www.visualcapitalist.com/most-used-ai-chatbots-by-web-traffic-2026",
+          "snippet": "| Chatbot | Share of AI Chatbot Website Visits (%) |\n --- |\n| October 2025 | September 2026 | Change   (Percentage Points) |\n| ChatGPT | 71.8 | 56.4 | -15.4 |\n| Gemini | 13.6 | 25.0 | 11.4 |\n| Claude | 2.3 | 9.6 | 7.3 |\n| DeepSeek | 4.1 | 3.4 | -0.7 |\n| Grok | 2.8 | 2.3 | -0.5 |\n| Copilot | 2.0 | 1.5 | -0.5 |\n| Perplexity | 2.5 | 0.9 | -1.6 |\n| Other | 0.9 | 0.9 | 0.0 |\n| Total | 100.0 | 100.0 \n\nMicrosoft’s Copilot ranks sixth at 1.5%, though that counts only visits to its website, not Copilot b"
+        },
+        {
+          "title": "Analysis of Top AI Search Engines: Who Is Catching Up to ChatGPT?",
+          "url": "https://seranking.com/blog/ai-traffic-research-study",
+          "snippet": "To answer that, we analyzed AI referral traffic from major AI search engines, including ChatGPT, Gemini, Perplexity, Microsoft Copilot, Claude, DeepSeek, and Grok.\n\nHere’s what we found.\n\nKey takeaways\n\n Website traffic from AI search engines grew 16x from 2024 to 2026.\n\n  AI platforms now account for 0.32% of all website traffic, up from 0.24% in 2025 and 0.02% in 2024.\n ChatGPT, Gemini, Perplexity, Copilot, and Claude are the top AI search engines sending traffic to websites in 2026.\n\n  ChatGP"
+        },
+        {
+          "title": "Perplexity AI Stats October 2026: Uses, Users, Market Share, and More. - fatjoe.",
+          "url": "https://fatjoe.com/blog/perplexity-ai-stats",
+          "snippet": "|  |  |  |\n --- \n| AI Platform | 12 Months Earlier | Latest (Aug 2026 update) |\n| ChatGPT | 73.3% | 55.5% |\n| Gemini | 12.9% | 25.6% |\n| Claude | 1.9% | 9.3% |\n| DeepSeek | 4.0% | 3.4% |\n| Grok | 2.6% | 2.4% |\n| Copilot | 2.0% | 1.6% |\n| Perplexity | 2.0% | 0.9% |\n\nSource: Similarweb, September 7, 2026\n\nTakeaway: Perplexity is now the smallest of the seven tracked AI platforms by web traffic.\n\n4.31% of AI chatbot referral traffic (August 2026). Statcounter measures which chatbots send clicks to "
+        },
+        {
+          "title": "ChatGPT leads AI tool visits in June 2026 with 5.32 billion",
+          "url": "https://www.facebook.com/Datainrace01/posts/the-ai-traffic-race-isnt-particularly-close-chatgpt-recorded-532-billion-web-vis/122242667240288433",
+          "snippet": "Gemini ranked second with 1.14 billion visits, followed by Claude at 968 million. DeepSeek was the highest-ranked Chinese AI tool at 319"
+        },
+        {
+          "title": "AI Search Stats in 2026 | Similarweb",
+          "url": "https://aisearch.similarweb.com/blog/gen-ai-stats",
+          "snippet": "## The AI market has fragmented into a three-way race\n\nThe clearest story in the data isn’t growth. It’s redistribution. According to Similarweb’s worldwide traffic panel, ChatGPT’s share of generative AI website visits fell from about 76% in June 2025 to roughly 53% by May 2026, a drop of more than 20 percentage points in twelve months. Gemini is the biggest beneficiary, rising from under 9% to around 27–28% of traffic over the same period. Claude moved from barely 2% to close to 9%, the larges"
+        },
+        {
+          "title": "Top 10 Most Used AI Tools in 2026, Ranked by Web Traffic",
+          "url": "https://factsfigs.com/projects/ai-tools/top-10-ai-tools-by-web-traffic",
+          "snippet": "2025-2026 Shift\n\n## What's Changed Since This Snapshot\n\nThis dataset captures a moment, and the market has moved fast since. Similarweb's worldwide traffic tracking shows ChatGPT's share of generative-AI website visits sliding from 76.4% in June 2025 to 52.7% by late May 2026, while Gemini's share more than tripled over the same stretch, from 8.9% to 27.3%. Claude moved from a rounding error to a real contender, climbing from 1.6% to 8.9% — including a 2.9-point jump in a single month, its faste"
+        }
+      ]
+    },
+    "market_share": {
+      "purpose": "Market share trends",
+      "query": "AI chatbot market share traffic percentage ChatGPT Gemini DeepSeek 2026",
+      "answer": "According to the sources, in September 2026, the AI chatbot market share traffic percentages were as follows: ChatGPT led with 56.4%, followed by Gemini at 25.0%, and then Claude at 9.6%. DeepSeek had 3.4%, Grok 2.3%, Copilot 1.5%, and Perplexity 0.9%. The sources also indicate that while the overall market is fragmented, with different methodologies yielding slightly different rankings, the general trend shows that ChatGPT still holds the largest share, though it has seen a decline from earlier in the year.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "The 7 most-used AI chatbots ranked by share of web traffic in 2026",
+          "url": "https://qz.com/most-used-ai-chatbots-web-traffic-2026-visual-capitalist",
+          "snippet": "DeepSeek commands the largest following among the four smallest named chatbots. It outdrew Grok's 241 million by 115 million, more than doubled Copilot's 157 million, and came close to quadrupling Perplexity's 94 million. The four combined claim 8.1% of the September total, and DeepSeek supplies 3.4 points, or 42%. Its fall accounted for 21% of the 3.3 points the group lost since October 2025. The three smaller peers absorbed the remaining 79%. DeepSeek has become the anchor of the trailing pack"
+        },
+        {
+          "title": "ChatGPT Market Share Falls to 46.4% [2026] Data",
+          "url": "https://tech-insider.org/chatgpt-market-share-below-50-percent-2026",
+          "snippet": "Read a different report and ChatGPT never came close to losing its majority. StatCounter’s Global Stats service, which tracks web-traffic referrals across millions of sites, put ChatGPT at 76.87% of worldwide AI-chatbot web visits in June 2026, with Gemini at 7.94%, Perplexity at 7.91%, Claude at 3.74%, Microsoft Copilot at 3.49% and DeepSeek at just 0.03%. StatCounter’s own tracker then ticked back up to 77.92% in July 2026 and kept climbing to 79.4% by August 2026, a reminder that even within "
+        },
+        {
+          "title": "Ranked: The Most Used AI Chatbots in 2026",
+          "url": "https://www.visualcapitalist.com/most-used-ai-chatbots-by-web-traffic-2026",
+          "snippet": "| Chatbot | Share of AI Chatbot Website Visits (%) |\n --- |\n| October 2025 | September 2026 | Change   (Percentage Points) |\n| ChatGPT | 71.8 | 56.4 | -15.4 |\n| Gemini | 13.6 | 25.0 | 11.4 |\n| Claude | 2.3 | 9.6 | 7.3 |\n| DeepSeek | 4.1 | 3.4 | -0.7 |\n| Grok | 2.8 | 2.3 | -0.5 |\n| Copilot | 2.0 | 1.5 | -0.5 |\n| Perplexity | 2.5 | 0.9 | -1.6 |\n| Other | 0.9 | 0.9 | 0.0 |\n| Total | 100.0 | 100.0 \n\nMicrosoft’s Copilot ranks sixth at 1.5%, though that counts only visits to its website, not Copilot b"
+        },
+        {
+          "title": "Instagram",
+          "url": "https://www.instagram.com/p/DfHhT2Km3Uq",
+          "snippet": "•\n\nFollow\n\nlanesra_ai's profile picture\n\nlanesra\\_ai\n\nChatGPT still leads AI chatbot traffic - but the market is getting more fragmented.  \n  \nIn this 2026 snapshot:  \n→ ChatGPT: 56.4%  \n→ Gemini: 25.0%  \n→ Claude: 9.6%  \n→ DeepSeek: 3.4%  \n→ Grok: 2.3%  \n  \nAnd that matters for marketers.  \n  \nYour brand can be visible in ChatGPT and invisible in Gemini.  \nRecommended by Claude and ignored by Perplexity.  \n  \nThere is no single \"AI ranking.\"  \n  \nAI visibility has to be measured across models. "
+        },
+        {
+          "title": "Top Generative AI Chatbots & LLMs by Market Share | Momentic",
+          "url": "https://momenticmarketing.com/blog/top-ai-chatbots",
+          "snippet": "US AI chatbot web-visit share, May 2026: ChatGPT 58.3%, Gemini 19.3%, Claude 13.4%, Grok 3.4%, Microsoft Copilot 2.8%, Perplexity 1.6%, DeepSeek 1.2%.\n\n| Rank | AI chatbot | US May 2026 visits | US web-visit share | US MoM | US quarterly | US YoY |\n ---  ---  --- \n| 1 | ChatGPT | 981.8M | 58.3% | -2% | -2% | +25% |\n| 2 | Gemini | 324.8M | 19.3% | -2% | +18% | +289% |\n| 3 | Claude | 225.2M | 13.4% | +4% | +149% | +763% |\n| 4 | Grok | 56.6M | 3.4% | -10% | -13% | +122% |\n| 5 | Microsoft Copilot | "
+        },
+        {
+          "title": "AI Chatbot Market Share Worldwide | Statcounter Global Stats",
+          "url": "https://gs.statcounter.com/ai-chatbot-market-share",
+          "snippet": "Press Releases\n FAQ\n About\n Feedback\n\nStatcounter Global Stats\n\n|  |  |\n --- |\n| Ai Chatbots | Percentage Market Share |\n| AI Chatbot Market Share Worldwide - September 2026 |\n| ChatGPT | 80.48% |\n| Google Gemini | 10.91% |\n| Perplexity | 5.85% |\n| Microsoft Copilot | 1.79% |\n| Claude | 0.95% |\n| Deepseek | 0.02% |\n\n# AI Chatbot Market Share Worldwide\n\nEdit Chart Data\n\n Save Chart Image (.png)\n Download Data (.csv)\n\n## View AI chatbot market share by platform\n\n All Platforms\n Desktop\n Tablet\n Mo"
+        },
+        {
+          "title": "LLM Market Share 2026: ChatGPT, Gemini, Claude and More",
+          "url": "https://www.usecarly.com/blog/llm-market-share",
+          "snippet": "The Pew, Ramp and Stack Overflow rows measure the share of people or businesses using each vendor, so they add up to more than 100%. The others are shares of a single total.\n\n## AI chatbot market share by web traffic\n\n55.5% of generative AI website visits went to ChatGPT in Similarweb’s August 2026 update, published September 7, 2026 (Similarweb, 2026).\n\n| Chatbot | A year earlier | 6 months earlier | 3 months earlier | August 2026 |\n ---  --- \n| ChatGPT | 73.3% | 56.7% | 52.7% | 55.5% |\n| Gemin"
+        },
+        {
+          "title": "Google Gemini Stats October 2026 - Market Share, Users and More. - fatjoe.",
+          "url": "https://fatjoe.com/blog/google-gemini-stats",
+          "snippet": "_Takeaway: Gemini has doubled its share of AI web traffic in a year, though its rise has paused in recent months._\n\nAI Platform12 Months EarlierLatest (Aug 2026 update)\nChatGPT 73.3%55.5%\nGemini12.9%25.6%\nClaude 1.9%9.3%\nDeepSeek 4.0%3.4%\nGrok 2.6%2.4%\nCopilot 2.0%1.6%\nPerplexity 2.0%0.9%\n\nSource: Similarweb, September 7, 2026\n\n_Takeaway: Gemini owns roughly a quarter of AI web traffic – more than Claude, DeepSeek, Grok, Copilot and Perplexity combined._\n\n2.6 billion visits to gemini.google.com "
+        }
+      ]
+    },
+    "market_size": {
+      "purpose": "Market size projections",
+      "query": "generative AI market size forecast 2026 2027 2030 revenue growth",
+      "answer": "The generative AI market is projected to reach between $2.6 trillion and $4.4 trillion annually by 2030 according to McKinsey, and $110.8 billion by 2030 with a 34.3% CAGR by Acumen Research and Consulting. The global AI market is estimated at $629.97 billion in 2026 and is forecast to grow at a CAGR of 21.3% from 2027 to 2035, reaching $3,796.05 billion by 2035 according to NextMSC. IDC projects worldwide AI services to triple to $351.7 billion by 2030, with generative AI making up half of that spend.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "AI in the Next 5 Years: 10 Predictions for 2026–2030 | Brainforge Blog",
+          "url": "https://brainforge.ai/blog/heres-what-to-expect-from-ai-in-the-next-5-years",
+          "snippet": "## Projected milestones through 2030\n\nBy 2025, AI agents debut at scale with the market reaching $8.6 billion. 2026 brings 40% of generative AI becoming multimodal while training clusters reach $10 billion. 2027 could see AGI with the agentic AI market approaching $15 to $20 billion. 2028 expects billion-user agent deployment and a $500 billion overall market. 2029 represents the AGI consensus timeline. By 2030, the global market reaches $3.5 trillion while generative AI delivers $2.6 to $4.4 tr"
+        },
+        {
+          "title": "Artificial Intelligence Market Worth USD 3,796.05 Bn by 2035",
+          "url": "https://www.nextmsc.com/report/artificial-intelligence-market",
+          "snippet": "## FAQs\n\nThe AI market size is estimated at USD 629.97 billion in 2026.\n\nThe AI Market is forecast to reach USD 3,796.05 billion by 2035.\n\nThe AI market is projected to grow at a CAGR of 21.3% from 2027 to 2035.\n\nGenerative AI dominates the AI market, valued at USD 239.39 billion in 2026 with approximately 38% share.\n\nReasoning and decision intelligence is the fastest-growing technology modality, expanding at a 44.8% CAGR from 2027 to 2035.\n\nNorth America leads the AI market, accounting for appr"
+        },
+        {
+          "title": "Generative AI Market Size Will Achieve USD 110.8 Billion by 2030 growing at 34.3% CAGR - Exclusive Report by Acumen Research and Consulting",
+          "url": "https://finance.yahoo.com/news/generative-ai-market-size-achieve-230000291.html",
+          "snippet": "| Report Coverage | Market Trends, Drivers, Restraints, Competitive Analysis, Player Profiling, Regulation Analysis | [...] Oops, something went wrong\n\nSkip to navigation  Skip to right column \n\nSign in [...] Mr. Richard Johnson\n\nAcumen Research and Consulting\n\nUSA: +13474743864\n\nIndia: +918983225533\n\nE-mail: sales@acumenresearchandconsulting.com\n\n[](\n\nGenerative AI Market Size Will Achieve USD 110.8 Billion by 2030 growing at 34.3% CAGR - Exclusive Report by Acumen Research and Consulting · glo"
+        },
+        {
+          "title": "Market Forecast: Worldwide Artificial Intelligence Services Forecast, 2026–2030",
+          "url": "https://my.idc.com/getdoc.jsp?containerId=EUR154305226",
+          "snippet": "“Artificial intelligence has become the primary growth engine of the services market, with worldwide AI services on track to more than triple to $351.7 billion by 2030 and generative AI reaching half of that spend. The providers that win will be the ones that turn agentic ambition into governed, measurable outcomes, because commoditization, ROI scrutiny, and talent gaps will separate the leaders from the rest.” — Jennifer Hamel, research vice president, Enterprise Data and AI Services, IDC.\n\n  \n"
+        },
+        {
+          "title": "Generative AI Market Size to Surpass USD 667.96 Billion by 2030, exhibiting a CAGR of 47.5%",
+          "url": "https://finance.yahoo.com/news/generative-ai-market-size-surpass-081000644.html",
+          "snippet": "Many artificial intelligence (AI) developers use generative AI to create new virtual worlds. Virtual reality (VR) developers use generative AI to create exclusive and immersive gaming environments, and implementing VR games and training simulations use cases has significant benefits, and this will significantly propel the market during the forecast period.\n\nUnresolved generative artificial intelligence (AI) projects and data security concerns negatively impact the generative AI market growth.\n\nS"
+        },
+        {
+          "title": "Generative AI Services Market to Hit USD 43.8 Billion by 2030, Fueled by SaaS & Healthcare Demand | Valuates Reports",
+          "url": "https://finance.yahoo.com/news/generative-ai-services-market-hit-140100359.html",
+          "snippet": "GENERATIVE AI SERVICES MARKET SHARE ANALYSIS:\n\nThe North American region holds a prominent position in the generative AI services market due to the presence of major tech companies, extensive cloud infrastructure, and a strong culture of innovation.\n\nEurope follows with increased adoption in manufacturing and healthcare sectors, driven by digital transformation initiatives and multilingual content needs.\n\nAsia-Pacific is emerging as a high-growth region due to increasing investment in AI researc"
+        },
+        {
+          "title": "AI Search Market Size Forecast 2026-2030 | Presenc AI",
+          "url": "https://presenc.ai/research/ai-search-market-size-forecast-2026-2030",
+          "snippet": "## Key Findings\n\n The market roughly quadruples by 2030. It grows from $24.6 billion in 2026 to $98.9 billion in 2030, a compound annual growth rate of about 41 percent.\n Advertising becomes the largest segment. Ad revenue in AI answers overtakes subscriptions by 2028 and reaches $46.2 billion in 2030, nearly half the market.\n Content licensing is the fastest grower. Licensing revenue to AI rises more than eightfold from $0.9 billion to $7.6 billion as pay-per-crawl and training deals scale.\n Gr"
+        },
+        {
+          "title": "AI Market Size 2026: $376B–$900B Estimates Explained",
+          "url": "https://www.articsledge.com/post/ai-market-size",
+          "snippet": "AI Market Size 2026: The Key Numbers\n What Counts as the Artificial Intelligence Market?\n Why AI Market Size Estimates Differ in 2026\n AI Market Size by Research Firm: 2026 Comparison\n Historical AI Market Revenue and Spending Trends\n AI Market Growth Rate and CAGR Through 2030–2035\n AI Market Forecasts for 2027, 2030, 2033, and 2035\n AI Market Breakdown: Hardware, Software, and Services\n Generative AI and Agentic AI Market Outlook\n AI Infrastructure Market: Chips, Cloud, and Data Centers\n AI Ma"
+        }
+      ]
+    },
+    "trends": {
+      "purpose": "Key market trends",
+      "query": "AI industry trends 2026 agentic AI MCP protocol enterprise adoption",
+      "answer": "In 2026, agentic AI and the Model Context Protocol (MCP) are seeing significant enterprise adoption, with Gartner forecasting 40% of enterprise applications embedding AI agents by the end of the year. The MCP, now an open infrastructure standard backed by major tech companies, has seen 97 million SDK downloads per month and is being adopted by 41% of software-industry technical leaders. However, security and governance challenges remain, with many public MCP servers carrying exploitable risks. The industry is moving from experimental prototypes to production-ready autonomous systems, with a focus on multi-agent orchestration, new standards like MCP and A2A protocols, and new organizational capabilities for governance maturity and workflow redesign.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "Enterprise AI trends in 2026: Sovereign, agentic, edge, AI factories",
+          "url": "https://www.spectrocloud.com/blog/enterprise-ai-2026-trends",
+          "snippet": "Luckily, the industry is working rapidly to mature agentic AI, with organizations such as the Agentic AI Foundation leading the way, providing stewardship for emerging standards such as the Model Context Protocol (MCP). MCP enables agents to interact with tools and data sources through standardised, well-defined interfaces — a vital step towards portability, security, and observability.\n\nOur prediction for 2026 is that agentic AI will be widely adopted but selectively trusted. The most successfu"
+        },
+        {
+          "title": "MCP Becomes Enterprise AI Standard: 41% Adoption in 2026 | THE D*AI*LY BRIEF",
+          "url": "https://www.beri.net/article/mcp-enterprise-standard-2026",
+          "snippet": "## The Agent Boom Is Real — And So Is the Shakeout\n\nMCP adoption is happening against a backdrop of explosive agent deployment. Gartner forecasts that 40% of enterprise applications will embed task-specific AI agents by the end of 2026, up from less than 5% in 2025. Eighty percent of enterprise applications shipped or updated in Q1 2026 already embed at least one AI agent.\n\nBut the same Gartner research predicts 40% of agentic AI projects will be canceled by 2027 due to runaway costs, unclear RO"
+        },
+        {
+          "title": "Model Context Protocol for Enterprise: 2026 Deployment Guide",
+          "url": "https://www.synvestable.com/model-context-protocol.html",
+          "snippet": "Across implementations, enterprises report up to 70% AI operational cost reduction, 50-75% development time savings, 40-60% faster agent deployment, and 300% ROI within 18 months when deploying MCP as part of broader agentic AI initiatives.\n\nThe integration complexity reduction is equally significant. Organizations that previously managed dozens of custom AI-to-tool connectors have consolidated to a single MCP infrastructure layer, reducing maintenance overhead by 60-80% and enabling new AI capa"
+        },
+        {
+          "title": "The Enterprise MCP Guide 2026 - The Agentics | The Agentics Co.",
+          "url": "https://theagentics.co/insights/the-enterprise-mcp-guide-2026",
+          "snippet": "2026 is being described across the industry as the year MCP moves from pilots to enterprise-wide adoption. The data on how many pilots actually make that jump is far less optimistic than the download charts suggest.\n\nThe obstacles enterprises report are consistent across sectors: technical complexity mapping MCP tools to legacy internal systems, change-management friction between IT, security, and business stakeholders, and, most often, the absence of a registry, approval workflow, or audit laye"
+        },
+        {
+          "title": "7 Agentic AI Trends to Watch in 2026 - MachineLearningMastery.com",
+          "url": "https://machinelearningmastery.com/7-agentic-ai-trends-to-watch-in-2026",
+          "snippet": "7 Agentic AI Trends to Watch in 2026  \nImage by Author\n\nThe agentic AI field is moving from experimental prototypes to production-ready autonomous systems. Industry analysts project the market will surge from $7.8 billion today to over \\$52 billion by 2030, while Gartner predicts that 40% of enterprise applications will embed AI agents by the end of 2026, up from less than 5% in 2025. This growth isn’t only about deploying more agents. It’s about different architectures, protocols, and business "
+        },
+        {
+          "title": "MCP Enterprise Adoption Guide 2026: Stats, Vendors, Security",
+          "url": "https://guptadeepak.com/the-complete-guide-to-model-context-protocol-mcp-enterprise-adoption-market-trends-and-implementation-strategies#implementation",
+          "snippet": "## Executive Summary (TL;DR)\n\nThe Model Context Protocol (MCP) has emerged as the defining standard for connecting AI agents to enterprise tools, data sources, and external systems. Just one year after its November 2024 launch by Anthropic, MCP has achieved what few technology standards accomplish: industry-wide adoption backed by competing giants including OpenAI, Google, Microsoft, AWS, and now governance under the Linux Foundation.\n\nKey Findings: [...] ### Current State of the Market\n\nMCP has"
+        },
+        {
+          "title": "MCP Enterprise Adoption Guide 2026: Stats, Vendors, Security, guptadeepak.com",
+          "url": "https://guptadeepak.com/the-complete-guide-to-model-context-protocol-mcp-enterprise-adoption-market-trends-and-implementation-strategies",
+          "snippet": "## Executive Summary (TL;DR)\n\nThe Model Context Protocol (MCP) has emerged as the defining standard for connecting AI agents to enterprise tools, data sources, and external systems. Just one year after its November 2024 launch by Anthropic, MCP has achieved what few technology standards accomplish: industry-wide adoption backed by competing giants including OpenAI, Google, Microsoft, AWS, and now governance under the Linux Foundation.\n\nKey Findings: [...] ### Current State of the Market\n\nMCP has"
+        },
+        {
+          "title": "Agentic AI Takes the Wheel 2026 - United States",
+          "url": "https://www.insentragroup.com/us/insights/not-geek-speak/generative-ai/agentic-ai-takes-the-wheel-a-deep-dive-into-2026",
+          "snippet": "TheModel Context Protocol (MCP)adoption is worth noting this open standard allows agents to securely connect data across disparate systems. Forrester predicts 30% of enterprise app vendors will launch MCP servers in 2026, signalling a more interoperable future where agents from different vendors can work together.\n\n## The Governance Imperative: When Agents Go Wrong\n\nHere’s a statistic that should make every security professional sit up.100% of organizations surveyed have agentic AI on their 2026"
+        }
+      ]
+    },
+    "mcp_ecosystem": {
+      "purpose": "MCP ecosystem updates",
+      "query": "MCP model context protocol ecosystem tools servers 2025 2026 growth",
+      "answer": "The Model Context Protocol (MCP) has seen significant growth and adoption since its introduction in November 2024. By July 28, 2026, the MCP project finalized its largest revision to date, with more than 10,000 active public servers and 400% year-over-year growth in server deployments by March 2026. The official MCP Registry listed 47,879 server names by October 21, 2026, with 66% of active servers listing a remote endpoint. SDK downloads reached 231.9 million in September 2026, and the ecosystem includes major clients like Claude Desktop, Cursor, and OpenAI's Custom GPTs. However, security remains a concern, with independent scans finding exploitable flaws in many public servers.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "MCP Hits 10,000+ Servers as Biggest Update Ships [2026] – Tech Insider Ireland",
+          "url": "https://tech-insider.org/ie/model-context-protocol-mcp-update-2026",
+          "snippet": "The Model Context Protocol just shipped its biggest rewrite since Anthropic introduced it in November 2024. The release candidate locked on May 21, 2026 became the final 2026-07-28 specification on July 28, described by the project’s own maintainers as the largest revision in the standard’s history. The timing matters because MCP is no longer a niche Anthropic side project. OpenAI, Google, Microsoft and AWS have all built it into their agent stacks, and the ecosystem has scaled fast: Anthropic’s"
+        },
+        {
+          "title": "MCP Server Ecosystem Statistics 2026 | Presenc AI",
+          "url": "https://presenc.ai/research/mcp-server-ecosystem-statistics-2026",
+          "snippet": "1. The MCP server directory and community-listed servers totalled approximately 8,000-12,000 distinct servers in Q2 2026, up from approximately 50 at launch in November 2024.\n2. Major MCP clients in production include Claude Desktop, Claude Code, Cursor, Windsurf, Zed, Continue, plus OpenAI's Custom GPTs (which added MCP support in 2025).\n3. The most-installed MCP servers connect to Slack, GitHub, Notion, Google Drive, Postgres, file systems, and web fetching, the standard developer toolset.\n4. "
+        },
+        {
+          "title": "10 Best MCP Servers for Developers in 2026",
+          "url": "https://www.firecrawl.dev/blog/best-mcp-servers-for-developers",
+          "snippet": "The adoption numbers match. Zuplo's State of MCP survey (Dec 2025) found 72% of MCP users expect their usage to increase in the next 12 months, 70% already run between 2 and 7 servers simultaneously, and 49% cite developer productivity and time savings as the primary ROI. It is no longer an experiment.\n\nThe ecosystem is growing fast as more developers wire MCP into their day-to-day workflow: pulling context for code, running tests, checking deployments, and handing tasks to their AI clients inst"
+        },
+        {
+          "title": "MCP Adoption Statistics 2026: Registry, SDK and CVE Data",
+          "url": "https://www.digitalapplied.com/blog/mcp-adoption-statistics-2026-model-context-protocol",
+          "snippet": "## Key Takeaways\n\nThe official registry has grown nearly 40-fold since the end of 2025: On October 21, 2026 the official MCP Registry held 47,879 server names (47,267 active), against 1,204 first published by the end of 2025; 66% of active servers now list a remote endpoint.\n\nSDK downloads now run to hundreds of millions a month: npm recorded 231.9M downloads of the TypeScript SDK in September 2026, up from 31.3M a year earlier; the MCP project puts its Tier 1 SDKs at close to half a billion a m"
+        },
+        {
+          "title": "MCP Security Statistics 2026: CVEs, Vulnerabilities & Breach Data",
+          "url": "https://www.practical-devsecops.com/mcp-security-statistics-2026-report",
+          "snippet": "97 million+ monthly SDK downloads across Python and TypeScript (Anthropic/modelcontextprotocol.io ecosystem update, December 9, 2025). MCP Lead Core Maintainer David Soria Parra summarized it as “over 97 million monthly SDK downloads, 10,000 active servers, and first-class client support across major AI platforms like ChatGPT, Claude, Cursor, Gemini, Microsoft Copilot, and Visual Studio Code.”\n 10,000+ active public MCP servers (Anthropic, December 9, 2025). An independent May 24, 2026, pull of "
+        },
+        {
+          "title": "Model Context Protocol for Enterprise: 2026 Deployment Guide",
+          "url": "https://www.synvestable.com/model-context-protocol.html",
+          "snippet": "Raiffeisen Bank MCP-integrated AI for risk management; 40% improvement in risk assessment\n\nEcosystem Scale: Over 97 million MCP SDK downloads per month, 10,000+ active public MCP servers (with unofficial directories indexing 17,000+), and Gartner projecting that 75% of API gateway vendors will have MCP features by end of 2026. CData estimates 30% of enterprise application vendors will launch MCP servers in 2026.\n\n### Measurable Business Impact\n\nEarly enterprise MCP deployments report substantial"
+        },
+        {
+          "title": "45 Model Context Protocol (MCP) Adoption Statistics | Nevermined",
+          "url": "https://nevermined.ai/blog/model-context-protocol-adoption-statistics",
+          "snippet": "Unprecedented protocol adoption - MCP achieved 97 million+ monthly SDK downloads by December 2025, establishing itself as the dominant AI integration standard\n Enterprise momentum accelerates - More than 80% of Fortune 500 companies now deploy active AI agents in production, creating massive demand for MCP-compatible payment solutions\n Developer confidence is high - 72% of MCP adopters expect their usage to increase in the next 12 months\n Ecosystem expansion continues - Around 14,000 MCP servers"
+        },
+        {
+          "title": "Everything your team needs to know about MCP in 2026 — WorkOS",
+          "url": "https://workos.com/blog/everything-your-team-needs-to-know-about-mcp-in-2026",
+          "snippet": "June 2025. The spec formalizes MCP servers as OAuth Resource Servers and mandates Resource Indicators (RFC 8707) to prevent token misuse.\n\nSeptember 2025. The MCP Registry launches. It grows to nearly 2,000 server entries within months.\n\nNovember 2025. The 2025-11-25 spec release ships the largest set of changes since launch: async tasks, enhanced sampling, elicitation, server-side agent loops, Client ID Metadata Documents, client security requirements, and the extensions system.\n\nDecember 2025."
+        }
+      ]
+    },
+    "competitors": {
+      "purpose": "Competitor landscape",
+      "query": "AI tools directory aggregator platform TAAFT toolify futurepedia there is an AI for that traffic",
+      "answer": "The sources indicate that There is an AI for That (TAAFT) is a large AI tools directory with over 10,000+ tools and 2M+ monthly users. It offers a free tier and has a robust Domain Authority of 74, making it a comprehensive resource for finding AI solutions. TAAFT also features a unique interface with a custom search option and an active community forum. Futurepedia, with 5.722 tools and 2.05 million visits, is a smaller, business-oriented directory that offers curated quality and detailed tool listings with pros and cons. Toolify, with 7,500+ tools, provides a free tier and is noted for long-tail search traffic. The sources do not provide specific URLs or contact information for these directories.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "Best AI Tool Directories to Submit Your Tool in 2026 — 12 Platforms Compared | AIToolsRecap",
+          "url": "https://aitoolsrecap.com/Blog/best-ai-tool-directories-submit-2026",
+          "snippet": "| Directory | DR | Free tier | Paid from | Link type | Review time | Best for |\n ---  ---  --- \n| There's An AI For That (TAAFT) | ~72 | Yes | ~$99/mo | Nofollow | 24-48h | Largest AI audience, task-based search |\n| Futurepedia | 62 | No (paid only) | ~$297/yr | Dofollow | 3-7 days | SEO backlinks, curated quality |\n| Toolify | ~65 | Yes | ~$100 express | Dofollow | 2-4 weeks (free) / 24-72h (express) | Long-tail search traffic, large catalog |\n| Product Hunt | 75 | Yes | N/A | Nofollow (profile"
+        },
+        {
+          "title": "Top 10 High-Traffic AI Directories for Product Visibility - DEV Community",
+          "url": "https://dev.to/sergiuchiriac/top-10-high-traffic-ai-directories-for-product-visibility-5ap9",
+          "snippet": "Futurepedia landing page\n\nFuturepedia landing page\n\nFuturepedia with over 5 million monthly visits offers a curated exploration of futuristic and AI-powered tools. It’s designed for tech aficionados searching for the next big thing in AI, making it a prime spot for showcasing AI innovations to an engaged audience.\n\n## There's An AI For That\n\nThere is an AI for That landing page\n\nThere is an AI for That landing page\n\nWith 3 million monthly visits and a robust Domain Authority of 74, this director"
+        },
+        {
+          "title": "10 Best AI Tools Directory to Browse and Submit AI Tool (2026)",
+          "url": "https://rytbee.com/best-ai-tools-directory",
+          "snippet": "### Features:\n\n ScoutBud chatbot saves time in finding the perfect AI tool\n You can post reviews of any tool listed in this directory\n Its exclusive newsletter gives insights on AI tools, prompts, and news related to AI\n\n## 8. TAAFT\n\n   \n\nTAAFT stands for There is an AI for that, it is one of the biggest AI tools directories having a database size of over 10,000+ tools for 2,500+ tasks. The monthly user of this directory is 2M+ and increasing day by day.\n\nThe platform has a unique interface with"
+        },
+        {
+          "title": "Toolify.ai Review: Is It Worth Submitting? (2026) · Where To Submit",
+          "url": "https://wheretosubmit.org/guides/toolify-submission-guide",
+          "snippet": "There is an AI for that: DR 74. Probably the largest AI directory by listing count. Open to fast inclusion.\n Futurepedia: DR 62. Curated, higher bar but higher quality.\n AI Tools Guide: DR 77. Older AI directory with strong long-tail coverage.\n AI Agents Directory: DR 71. Focused on AI Agents and autonomous tools. List here if your product fits.\n Dang AI: DR 60. Free inclusion, decent for long-tail backlinks.\n Top AI tools: DR 58. Sits across AI and dev categories. Good fit for developer-leaning"
+        },
+        {
+          "title": "How to Find the Right AI Tools for Any Task",
+          "url": "https://aiblewmymind.substack.com/p/how-to-find-the-right-ai-tools-for",
+          "snippet": "## #1: There’s An AI For That\n\n> There’s An AI For That isn’t just the largest AI tools directory in the world, it’s become the go-to platform for AI tool discovery. With over 41,000 tools listed, 13.93 million visits between June and August, it’s built serious network effects that make it valuable for both users and builders.\n>\n> Beyond raw size, TAAFT has turned into the go-to hub for everything AI. It’s not just a directory but a full ecosystem with recommendations, community input, deals, mi"
+        },
+        {
+          "title": "Top 8 AI App Directories for Digital Media Publisher",
+          "url": "https://project-aeon.com/blogs/top-ai-app-directories",
+          "snippet": "The platform’s “Find AI with AI” feature is particularly interesting. It allows users to ask an AI chatbot a question about the issue they want to solve, and the bot will suggest apps that might help complete the task.\n\n## 5. There's An AI For That (TAAFT)\n\nWith over 12,000 AI apps, TAAFT is among the top AI aggregators and has been used by over 20 million users.\n\nUsers can save their favorite apps, and the number of saves is indicated against every listed app—a great way to rank an app by popul"
+        },
+        {
+          "title": "There’s An AI For That Review: Traffic, DR, Backlink Type, and Alternatives",
+          "url": "https://saas-directories.com/directories/theres-an-ai-for-that",
+          "snippet": "theresanaiforthatthere is an ai for thatthere's an ai for thattaaftourdream\n\nVerdict\n\n## Should You Submit Your SaaS to There’s An AI For That?\n\nProbably. There’s An AI For That can still be useful if the listing page is public and relevant to your product. I would prioritize it after the easier free platforms with stronger traffic signals.\n\nNext step:open There’s An AI For That, or compare the full directory list."
+        },
+        {
+          "title": "Best AI Tools Directories: 13 Checked, 9 Worth Using",
+          "url": "https://www.junia.ai/blog/top-ai-tools-directories",
+          "snippet": "The directory is useful for finding AI tools and software by category, but its real appeal is the cleaner browsing experience. If you are researching tools for a team, a smaller and more organized directory can be easier to explain to other stakeholders than a giant database with endless near-duplicates.\n\nUse Futurepedia when:\n\n You want business-oriented discovery.\n You prefer a cleaner directory over maximum tool count.\n You are looking for broad productivity, marketing, operations, or workflo"
+        }
+      ]
+    },
+    "chinese_market": {
+      "purpose": "Chinese market data",
+      "query": "AI网站流量排名 2026 中国AI工具 DeepSeek 百度AI 访问量",
+      "answer": "According to the sources, in May 2026, DeepSeek had a monthly visit of 5.41 billion, ranking first in the domestic total ranking and fifth globally. Following DeepSeek, Baidu AI Search had 3943 million visits, ranking second in the domestic increase ranking, indicating a significant rebound in Baidu's AI products.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "5月DeepSeek网站月访问量突破5亿，百度系全面回暖_腾讯新闻",
+          "url": "https://news.qq.com/rain/a/20260608A06ZSP00?ptag=ima",
+          "snippet": "# 5月DeepSeek网站月访问量突破5亿，百度系全面回暖\n\n头像\n\nTechWeb\n\n2026-06-08 16:53发布于北京TechWeb官方账号\n\n问AI · 百度系AI产品三线回暖反映何种市场趋势？\n\n【TechWeb】6月8日消息，AI产品榜·网站榜(Web)（2026年05月榜）发布。\n\n国内总榜方面，DeepSeek月访问 5.41亿（上个月4.86 亿），环比 +11.22%，排名国内总榜第1、全球总榜第5。紧随其后的是纳米AI搜索（1.98亿）、豆包（1.64亿，+0.46%）、Kimi（4608 万，+5.45%）、千问（4428 万，0.1%）组成的国内第二梯队。\n\n增速榜方面，国内增速榜第一名是字节的扣子，月访问 773万，环比 +20.84%。紧随其后的是百度系多款产品：百度AI 搜索 3943万、+20.65% 排第二，百度橙篇 778万、+16.01% 排第五，文心一言 +14.53%。百度在搜索、长文创作、对话助手三条线上同时回暖。\n\n图片"
+        },
+        {
+          "title": "5月DeepSeek网站月访问量突破5亿，百度系全面回暖_腾讯新闻",
+          "url": "https://view.inews.qq.com/a/20260608A06ZSP00",
+          "snippet": "# 5月DeepSeek网站月访问量突破5亿，百度系全面回暖\n\n头像\n\nTechWeb\n\n2026-06-08 16:53发布于北京TechWeb官方账号\n\n问AI · 百度系AI产品三线回暖反映何种市场趋势？\n\n【TechWeb】6月8日消息，AI产品榜·网站榜(Web)（2026年05月榜）发布。\n\n国内总榜方面，DeepSeek月访问 5.41亿（上个月4.86 亿），环比 +11.22%，排名国内总榜第1、全球总榜第5。紧随其后的是纳米AI搜索（1.98亿）、豆包（1.64亿，+0.46%）、Kimi（4608 万，+5.45%）、千问（4428 万，0.1%）组成的国内第二梯队。\n\n增速榜方面，国内增速榜第一名是字节的扣子，月访问 773万，环比 +20.84%。紧随其后的是百度系多款产品：百度AI 搜索 3943万、+20.65% 排第二，百度橙篇 778万、+16.01% 排第五，文心一言 +14.53%。百度在搜索、长文创作、对话助手三条线上同时回暖。\n\n图片"
+        },
+        {
+          "title": "5月DeepSeek网站月访问量突破5亿，百度系全面回暖|字节跳动|百度AI|千问|扣子（Coze）|Kimi_手机新浪网",
+          "url": "https://finance.sina.cn/tech/2026-06-08/detail-iniaswmn5418810.d.html?vt=4",
+          "snippet": "## 新浪科技\n\n  \n\n【TechWeb】6月8日消息，AI产品榜·网站榜(Web)（2026年05月榜）发布。\n\n国内总榜方面，DeepSeek月访问 5.41亿（上个月4.86 亿），环比 +11.22%，排名国内总榜第1、全球总榜第5。紧随其后的是纳米AI搜索（1.98亿）、豆包（1.64亿，+0.46%）、Kimi（4608 万，+5.45%）、千问（4428 万，0.1%）组成的国内第二梯队。\n\n  ) \n\n增速榜方面，国内增速榜第一名是字节的扣子，月访问 773万，环比 +20.84%。紧随其后的是百度;)系多款产品：百度AI 搜索 3943万、+20.65% 排第二，百度橙篇 778万、+16.01% 排第五，文心一言 +14.53%。百度在搜索、长文创作、对话助手三条线上同时回暖。\n\n  )"
+        },
+        {
+          "title": "5月DeepSeek网站月访问量突破5亿，百度系全面回暖|字节跳动|百度AI|千问|扣子（Coze）|Kimi_手机新浪网",
+          "url": "https://finance.sina.cn/tech/2026-06-08/detail-iniaswmn5418810.d.html?oid=%E7%9A%87%E5%86%A0%E7%99%BB0%E7%A7%9F%E7%94%A8%EF%BD%9BTelegram%3Ahga158%EF%BD%9Dmvia&vt=4",
+          "snippet": "## 新浪科技\n\n  \n\n【TechWeb】6月8日消息，AI产品榜·网站榜(Web)（2026年05月榜）发布。\n\n国内总榜方面，DeepSeek月访问 5.41亿（上个月4.86 亿），环比 +11.22%，排名国内总榜第1、全球总榜第5。紧随其后的是纳米AI搜索（1.98亿）、豆包（1.64亿，+0.46%）、Kimi（4608 万，+5.45%）、千问（4428 万，0.1%）组成的国内第二梯队。\n\n  ) \n\n增速榜方面，国内增速榜第一名是字节的扣子，月访问 773万，环比 +20.84%。紧随其后的是百度;)系多款产品：百度AI 搜索 3943万、+20.65% 排第二，百度橙篇 778万、+16.01% 排第五，文心一言 +14.53%。百度在搜索、长文创作、对话助手三条线上同时回暖。\n\n  )"
+        },
+        {
+          "title": "5月DeepSeek网站月访问量突破5亿，百度系全面回暖|字节跳动|百度AI|千问|扣子（Coze）|Kimi_手机新浪网",
+          "url": "https://finance.sina.cn/tech/2026-06-08/detail-iniaswmn5418810.d.html?oid=11%E9%AB%98%E4%BB%BF%E5%A5%A2%E4%BE%88%E5%93%81%E5%8C%85%E5%8C%85%E2%96%A0%E5%BE%AE%E4%BF%A1198099199%E2%96%A0rMG5&vt=4",
+          "snippet": "## 新浪科技\n\n  \n\n【TechWeb】6月8日消息，AI产品榜·网站榜(Web)（2026年05月榜）发布。\n\n国内总榜方面，DeepSeek月访问 5.41亿（上个月4.86 亿），环比 +11.22%，排名国内总榜第1、全球总榜第5。紧随其后的是纳米AI搜索（1.98亿）、豆包（1.64亿，+0.46%）、Kimi（4608 万，+5.45%）、千问（4428 万，0.1%）组成的国内第二梯队。\n\n  ) \n\n增速榜方面，国内增速榜第一名是字节的扣子，月访问 773万，环比 +20.84%。紧随其后的是百度;)系多款产品：百度AI 搜索 3943万、+20.65% 排第二，百度橙篇 778万、+16.01% 排第五，文心一言 +14.53%。百度在搜索、长文创作、对话助手三条线上同时回暖。\n\n  )"
+        },
+        {
+          "title": "5月DeepSeek网站月访问量突破5亿，百度系全面回暖|字节跳动|百度AI|千问|扣子（Coze）|Kimi_手机新浪网",
+          "url": "https://tech.sina.cn/mobile/xp/2026-06-08/detail-iniaswmn5418810.d.html?vt=4&cid=38739&node_id=38739",
+          "snippet": "## 新浪科技\n\n  \n\n【TechWeb】6月8日消息，AI产品榜·网站榜(Web)（2026年05月榜）发布。\n\n国内总榜方面，DeepSeek月访问 5.41亿（上个月4.86 亿），环比 +11.22%，排名国内总榜第1、全球总榜第5。紧随其后的是纳米AI搜索（1.98亿）、豆包（1.64亿，+0.46%）、Kimi（4608 万，+5.45%）、千问（4428 万，0.1%）组成的国内第二梯队。\n\n  ) \n\n增速榜方面，国内增速榜第一名是字节的扣子，月访问 773万，环比 +20.84%。紧随其后的是百度;)系多款产品：百度AI 搜索 3943万、+20.65% 排第二，百度橙篇 778万、+16.01% 排第五，文心一言 +14.53%。百度在搜索、长文创作、对话助手三条线上同时回暖。\n\n  )"
+        },
+        {
+          "title": "5月DeepSeek网站月访问量突破5亿，百度系全面回暖|百度_新浪科技_新浪网",
+          "url": "https://finance.sina.com.cn/tech/roll/2026-06-08/doc-iniaswmn5418810.shtml",
+          "snippet": "新浪首页\n 新闻\n 体育\n 财经\n 娱乐\n 科技\n 博客\n 图片\n 专栏\n 更多\n\n 汽车教育时尚女性星座健康\n 房产历史视频收藏育儿读书\n 佛学游戏旅游邮箱导航\n\n 新浪微博\n 新浪新闻\n 新浪财经\n 新浪体育\n 新浪众测\n 新浪博客\n 新浪视频\n 新浪游戏\n 天气通\n\n（2026年05月榜）发布。\n\n国内总榜方面，DeepSeek月访问 5.41亿（上个月4.86 亿），环比 +11.22%，排名国内总榜第1、全球总榜第5。紧随其后的是纳米AI搜索（1.98亿）、豆包（1.64亿，+0.46%）、Kimi（4608 万，+5.45%）、千问（4428 万，0.1%）组成的国内第二梯队。\n\n增速榜方面，国内增速榜第一名是字节的扣子，月访问 773万，环比 +20.84%。紧随其后的是百度系多款产品：百度AI 搜索 3943万、+20.65% 排第二，百度橙篇 778万、+16.01% 排第五，文心一言 +14.53%。百度在搜索、长文创作、对话助手三条线上同时回暖。\n\n百度\n\n新浪众测 新浪众测\n\n新浪科技公众号\n\n新浪科技公众号\n\n“掌”握科技鲜闻 （微信搜索techsina或扫描"
+        },
+        {
+          "title": "5月DeepSeek网站月访问量突破5亿，百度系全面回暖_腾讯新闻",
+          "url": "https://news.qq.com/rain/a/20260608A06ZSP00",
+          "snippet": "Title: 5月DeepSeek网站月访问量突破5亿，百度系全面回暖_腾讯新闻\n# 5月DeepSeek网站月访问量突破5亿，百度系全面回暖. 2026-06-08 16:53发布于北京TechWeb官方账号. 【TechWeb】6月8日消息，AI产品榜·网站榜(Web)（2026年05月榜）发布。. 国内总榜方面，DeepSeek月访问 5.41亿（上个月4.86 亿），环比 +11.22%，排名国内总榜第1、全球总榜第5。紧随其后的是纳米AI搜索（1.98亿）、豆包（1.64亿，+0.46%）、Kimi（4608 万，+5.45%）、千问（4428 万，0.1%）组成的国内第二梯队。. 增速榜方面，国内增速榜第一名是字节的扣子，月访问 773万，环比 +20.84%。紧随其后的是百度系多款产品：百度AI 搜索 3943万、+20.65% 排第二，百度橙篇 778万、+16.01% 排第五，文心一言 +14.53%。百度在搜索、长文创作、对话助手三条线上同时回暖。."
+        }
+      ]
+    },
+    "user_behavior": {
+      "purpose": "User behavior patterns",
+      "query": "AI tool usage statistics user behavior popular features coding image generation 2025 2026",
+      "answer": "According to the sources, the most popular generative AI tools by user adoption in 2026 are: ChatGPT with 55% usage, Copy.ai with 42%, Jasper.ai with 36%, Peppertype.ai with 29%, Lensa with 28%, DALL-E with 25%, and MidJourney with 24%. In the coding domain, AI coding agents are used weekly by 90% of professional developers and daily by 68%, with tools like Claude Code, GitHub Copilot, and Cursor showing significant adoption rates. The most downloaded generative AI tools in 2026 were: ChatGPT, DeepSeek, Google Gemini, Doubao, PixVerse, Talkie, Nova, Microsoft Copilot, and Character AI. The state of consumer AI in 2026 shows a shift where AI is becoming the default for activities like writing support, coding projects, school and work assignments, image creation, presentation building, and game creation.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "AI Usage Statistics 2026: Adoption Rates & Trends",
+          "url": "https://sqmagazine.co.uk/ai-usage-statistics",
+          "snippet": "## Most Popular Generative AI Tools by User Adoption\n\n ChatGPT tops the list with 55% of users actively using it, making it the most widely adopted generative AI tool.\n Copy.ai holds second place with 42% user adoption, favored for content and marketing automation.\n Jasper.ai is used by 36% of respondents, valued for its writing and business content capabilities.\n Peppertype.ai is chosen by 29%, primarily among users seeking fast content generation tools.\n Lensa, known for AI-generated avatars a"
+        },
+        {
+          "title": "AI Coding and Code Generation Statistics 2026 | Uvik Software",
+          "url": "https://uvik.net/blog/ai-coding-assistant-statistics",
+          "snippet": "Paul Francis\n\nTable of content\n\n## Summary\n\nAI coding statistics measure different things: how many developers use a tool, how much code it generates, how it affects delivery and how much users trust its output. Those measures cannot be treated as interchangeable.\n\nIn its May–July 2026 research, JetBrains reported weekly AI coding-agent use among 90% of professional developers and daily use among 68%. Separately, Stack Overflow’s 2025 survey reported 33% trust in the accuracy of AI output. The f"
+        },
+        {
+          "title": "350+ Generative AI Statistics [January 2026]",
+          "url": "https://masterofcode.com/blog/generative-ai-statistics",
+          "snippet": "As stated by The Washington Post, the most common use of Generative AI among specialists are creative writing and role-play (21%), homework help (18%), search inquiries (17%), work or business tasks (15%), coding (7%), image generation (6%), health advice (5%), and jailbreaks (4%).\n Over 40% of surveyed clients want GenAI to be integrated into their communication with organizations, particularly for automating support, search, and content creation across text, video, images, and audio. [...] 65 "
+        },
+        {
+          "title": "2026: The State of Consumer AI",
+          "url": "https://menlovc.com/perspective/2026-the-state-of-consumer-ai",
+          "snippet": "1.   This figure reflects a consistent question and sampling methodology fielded identically in 2025 and 2026 among a nationally representative sample of U.S. adults, so the year-over-year comparison is apples to apples. The relatively modest top-line movement (61.0% to 63.6%) is consistent with independent third-party evidence, which also shows AI usage growth concentrated in frequency and intensity of use among existing users rather than in the size of the overall user base. ↩︎\n2.   General AI"
+        },
+        {
+          "title": "Use of artificial intelligence by individuals - Statistics Explained - Eurostat",
+          "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Use_of_artificial_intelligence_by_individuals",
+          "snippet": "# Navigation\n\nHome (Eurostat)\n\n## Search by keyword\n\nData extracted in March 2026\n\nPlanned article update: April 2027\n\n# Use of artificial intelligence by individuals\n\nData extracted in March 2026\n\nPlanned article update: April 2027\n\n## Highlights\n\nIn 2025, a third of people surveyed in the EU had used generative AI tools in the previous 3 months; the highest rates were in Denmark (48%), Estonia and Malta (both 47%), and Finland (46%).\n\nYounger people reported using generative AI more than older"
+        },
+        {
+          "title": "Top Generative AI Image Generators Tool for 2026",
+          "url": "https://www.edureka.co/blog/generative-ai-image",
+          "snippet": "### 4. Artbreeder\n\nWith its collaborative and interactive approach to image generation, Artbreeder enables users to merge images and adjust aspects such as style, form, and colour, all while collaborating with others. This dynamic platform fosters exploration, which is a fantastic tool for shared creativity.\n\nUsing AI tools provides a lot of benefits enhanced efficiency,\n\n### 5. DeepArt\n\nDeepArt employs a unique style transfer approach, where the application applies one image’s style to another "
+        },
+        {
+          "title": "AI-Generated Code Statistics 2026: Can AI Replace Your Development Team?",
+          "url": "https://www.netcorpsoftwaredevelopment.com/blog/ai-generated-code-statistics",
+          "snippet": "‍\n\n## What Percentage of Code Is AI-Generated in 2026?\n\nAccording to recent global estimates, 41% of all code is now AI-generated, with 76% of professional developers either using (62%) or planning to use (14%) AI coding tools. Moreover, in a recent developer surveys:\n\n 82% of devs say they use AI coding tools daily or weekly.\n\n 59% run three or more AI tools in parallel.\n 65% report that AI touches at least a quarter of their codebase.\n 78% say AI improves productivity, and 57% say it makes the"
+        },
+        {
+          "title": "AI Tools Statistics 2026: 900M Users, 88% Enterprise ...",
+          "url": "https://www.linkedin.com/pulse/ai-tools-statistics-2026-900m-users-88-enterprise-adoption-trillion-dollar-knwoc",
+          "snippet": "AI Tools Statistics 2026: 900M Users, 88% Enterprise Adoption & Trillion-Dollar Growth ; OpenAI reported that ChatGPT surpassed 900 million ...Read more"
+        }
+      ]
+    },
+    "agent_market_size": {
+      "purpose": "Agent market size & growth",
+      "query": "AI agent market size revenue forecast 2025 2026 2030 CAGR growth billion enterprise adoption Gartner",
+      "answer": "The AI agent market size in 2026 is projected to be USD 11.55 billion according to one source, while another source forecasts it at USD 5.3 billion. The global AI agent market is projected to grow from USD 7.84 billion in 2025 to USD 52.62 billion by 2030, with a Compound Annual Growth Rate of 46.3% (MarketsandMarkets). The enterprise agentic AI market is expected to grow at a CAGR of 46.2% from 2025 to 2030, reaching USD 24.5 billion by 2030 (Grand View Research).",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "AI Agents Statistics: Market Size, Enterprise Adoption Rates & Trends",
+          "url": "https://www.cmarix.com/blog/ai-agents-statistics-trends",
+          "snippet": "Market Trajectory: The global AI agent market is projected to grow from an estimated $7.84 billion in 2025 to a projected $52.62 billion by 2030, and with a Compound Annual Growth Rate of 46.3% (MarketsandMarkets).\n\n Long-Term Revenue Potential: In a best-case scenario, agentic AI could generate nearly 40% of enterprise application software revenue by 2035, potentially surpassing $450 billion (Gartner).\n Vertical Agent Growth: The Vertical AI agents segment, specialized for niche, domain-specifi"
+        },
+        {
+          "title": "Enterprise Agentic AI Market Size & Share Report, 2025-2030",
+          "url": "https://www.grandviewresearch.com/industry-analysis/enterprise-agentic-ai-market-report",
+          "snippet": "$24.5B\n\n  CAGR, 2025–2030\n\n  46.2%\n\n  ## Enterprise Agentic AI Market Summary\n\n  The global enterprise agentic AI market size was valued at USD 2.6 billion in 2024 and is projected to grow from USD 5.3 billion in 2026 to USD 24.5 billion by 2030, at a CAGR of 46.2% from 2025 to 2030. North America dominated the market, accounting for a revenue share of 39% in 2024.The market is driven by several factors, including the increasing complexity of business environments and the essential need for rapi"
+        },
+        {
+          "title": "AI Agents Market Report 2025-2030, by Application, Geo, Tech",
+          "url": "https://www.marketsandmarkets.com/Market-Reports/ai-agents-market-15761548.html",
+          "snippet": "The AI Agents market is projected to grow from USD 7.84 billion in 2025 to USD 52.62 billion by 2030, registering a CAGR of 46.3%. This explosive growth is being driven by the convergence of foundation models, autonomous task execution, and enterprise demand for intelligent copilots across business functions. The integration of foundation models, such as large language models (LLMs) is transforming AI agents from simple rule-based bots into autonomous, multi-step task performers. These agents ca"
+        },
+        {
+          "title": "AI Agents Market Companies, Size & Trends 2026-2035",
+          "url": "https://www.precedenceresearch.com/ai-agents-market",
+          "snippet": "Global\n\n## What is the AI Agents Market Size in 2026?\n\nThe global AI agents market size accounted for USD 7.92 billion in 2025 and is predicted to increase from USD 11.55 billion in 2026 to approximately USD 294.66 billion by 2035, expanding at a CAGR of 43.57% from 2026 to 2035. The ongoing revolution in enterprises, with the emphasis over automation in large-scale industries is seen to promote the market s growth in the foreseen period.\n\nAI Agents Market Size 2026 to 2035\n\n## AI Agents Market "
+        },
+        {
+          "title": "The $53 Billion Agentic Shift: What Gartner’s Forecast Means for Procurement | Opstream",
+          "url": "https://www.opstream.ai/blog/agentic-procurement-orchestration-53-billion-shift",
+          "snippet": "### How big is the agentic AI market in procurement?\n\nGartner’s January 2026 forecast projects that supply chain management software with agentic AI will grow from under $2 billion in 2025 to $53 billion by 2030, a compound annual growth rate of 93.5%. Spending on advanced AI agents specifically will reach $16 billion by 2030, representing 20% of total SCM software spend.\n\n### How does agentic procurement orchestration differ from RPA? [...] Gartner, Jan. 2026\n\nThree data points frame the shift:"
+        },
+        {
+          "title": "Gartner's 40% AI Agent Prediction: Reality Check | Aayush Narang posted on the topic | LinkedIn",
+          "url": "https://www.linkedin.com/posts/aayushnarang_the-ai-agent-reality-check-gartners-40-activity-7369343701166297090-te1D",
+          "snippet": "The AI Agent Reality Check: Gartner's 40% Prediction vs. Current Market Reality Gartner just predicted that 40% of enterprise apps will feature task-specific AI agents by 2026, up from less than 5% today. That's an 8x jump in 18 months. But AI agents are currently at the \"Peak of Inflated Expectations\" on Gartner's 2025 Hype Cycle, which means we're in the phase of \"ambitious projections and speculative promises.\" Here's what I'm thinking about this prediction... The market signals that support "
+        },
+        {
+          "title": "Artificial Intelligence Market Size & Share Report, 2026-2033",
+          "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market",
+          "snippet": "$539.5B\n\nMarket Forecast, 2033\n\n$3,497.3B\n\nCAGR, 2026–2033\n\n30.6%\n\n## Artificial Intelligence Market Summary\n\nThe global artificial intelligence market size was valued at USD 390.9 billion in 2025 and is projected to grow from USD 539.5 billion in 2026 to USD 3,497.3 billion by 2033, at a CAGR of 30.6% from 2026 to 2033. The North America held the largest share of 35.5% of the global market in 2025. The market is driven by the rapid enterprise adoption of generative and agentic AI, with massive "
+        },
+        {
+          "title": "Agentic AI Market Size, Share & Forecast Report, 2034",
+          "url": "https://www.fortunebusinessinsights.com/agentic-ai-market-114233",
+          "snippet": "Oct 12, 2026 — The global agentic AI market size is projected to grow from $7.29 billion in 2025 to $139.19 billion by 2034, at a CAGR of 40.5% during the"
+        }
+      ]
+    },
+    "agent_frameworks": {
+      "purpose": "Agent framework ecosystem",
+      "query": "AI agent framework comparison 2026 LangChain CrewAI AutoGen OpenAI Agents SDK Google ADK Claude Agent SDK",
+      "answer": "The sources indicate that the AI agent framework landscape in 2026 is diverse, with several prominent frameworks including LangGraph, CrewAI, OpenAI Agents SDK, Google ADK, and Microsoft Agent Framework. LangGraph is highlighted for stateful workflows, CrewAI for rapid prototyping, and the OpenAI Agents SDK for lightweight handoff chains. Google ADK is noted for multi-language enterprise systems, and Microsoft Agent Framework 1.0 is recognized for its.NET and Azure integration. The best framework depends on specific orchestration patterns and deployment constraints.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "Comparing Open-Source AI Agent Frameworks - Langfuse",
+          "url": "https://langfuse.com/blog/2025-03-19-ai-agent-comparison",
+          "snippet": "Picture Jannik MaierhöferJannik Maierhöfer\n\nBuilding AI agents used to be a patchwork of scripts, prompt engineering, and trial-and-error. Today, there is a mature landscape of open-source frameworks designed to streamline the process of creating agents that reason, plan, and execute tasks autonomously. This post offers an in-depth look at the leading open-source AI agent frameworks as of July 2026: LangGraph, LangChain DeepAgents, the OpenAI Agents SDK, the Claude Agent SDK, Google ADK, Pydanti"
+        },
+        {
+          "title": "Top AI Agent Frameworks for 2026: A Practical Comparison",
+          "url": "https://blog.redlinesoft.net/posts/top-ai-agent-frameworks-2026",
+          "snippet": "Skip to content \n\n# Top AI Agent Frameworks for 2026: A Practical Comparison\n\nA practical, evidence-based comparison of the leading AI agent frameworks in 2026 — LangGraph, CrewAI, OpenAI Agents SDK, AutoGen/AG2, Google ADK, and more — with guidance on how to choose.\n\nPublished on • August 5, 2026\n\nAI Assistant\n\n## Executive Summary\n\nBy 2026, the AI landscape has decisively moved from single-prompt interactions to long-running, goal-driven agentic systems. According to JetBrains, agentic framewo"
+        },
+        {
+          "title": "AI Agent Framework Comparison (LangGraph/CrewAI/AutoGen)",
+          "url": "https://blckalpaca.at/en/knowledge-base/ai-agents/ai-agent-frameworks-comparison",
+          "snippet": "| Dimension | LangGraph | CrewAI | OpenAI Agents SDK | Microsoft Agent Framework | Claude Agent SDK |\n ---  ---  --- |\n| Vendor | LangChain Inc. (US) | crewAI Inc. (US) | OpenAI (US) | Microsoft (US) | Anthropic (US) |\n| Language(s) | Python, JS/TS | Python only | Python, TypeScript | .NET (C#), Python | Python, TypeScript |\n| License | MIT | MIT (Core) + Enterprise | Apache 2.0 / MIT (SDK) | MIT | Apache 2.0 (Code) + Anthropic Commercial Terms |\n| Version | 1.2.0 (12 May 2026) | 1.10.1 (Q1 2026"
+        },
+        {
+          "title": "AI Agent Frameworks (2026 Update): 8 SDKs Compared + the Claude Agent SDK Primitive Reference",
+          "url": "https://www.morphllm.com/ai-agent-framework",
+          "snippet": "Every major AI lab ships an agent framework now, and the 2026 releases landed fast. Microsoft Agent Framework 1.0 went GA on April 3, 2026, merging AutoGen and Semantic Kernel into one .NET and Python SDK. CrewAI passed 52,000 GitHub stars. Google shipped ADK 1.0 for Java and Go. Anthropic announced that Claude Agent SDK usage would draw from a separate monthly credit on June 15, 2026, then paused the change the same day.\n\nThe protocol layer consolidated. ACP merged into A2A under the Linux Foun"
+        },
+        {
+          "title": "Best AI Agent Frameworks 2026: Alice Labs Top 10 Ranked",
+          "url": "https://alicelabs.ai/en/insights/best-ai-agent-frameworks-2026",
+          "snippet": "# Best AI Agent Frameworks 2026: The Complete Comparison (Last verified: August 2026)\n\n## TL;DR\n\nAn engineer's ranking of the 10 leading AI agent frameworks as of August 2026, benchmarked across 100+ Alice Labs production AI implementations. Covers LangGraph 1.x, Microsoft Agent Framework 1.0, Claude Agent SDK, OpenAI Agents SDK, Google ADK 2.0, CrewAI 1.14.7, LlamaIndex Workflows 1.0, Pydantic AI 2.0, Mastra, and AG2 - with license, MCP + A2A protocol support, latest release date, and the Alice"
+        },
+        {
+          "title": "The 9 Best AI Agent Frameworks in 2026 (We Tested Every Single One) | AgentMail",
+          "url": "https://www.agentmail.to/blog/best-ai-agent-frameworks-2026",
+          "snippet": "## TL;DR: the 2026 rankings\n\n1. Mastra: best full-stack framework for TypeScript teams shipping production agents\n2. LangGraph: best for complex stateful workflows in Python\n3. OpenAI Agents SDK: best if you're all-in on OpenAI models\n4. Vercel AI SDK: best AI toolkit for JS/TS apps that are growing agent features\n5. Pydantic AI: best type-safe agents in Python\n6. CrewAI: best for fast multi-agent prototypes\n7. Claude Agent SDK: best pre-built agent harness (if you're Claude-native)\n8. Google AD"
+        },
+        {
+          "title": "Best Multi-Agent Frameworks in 2026",
+          "url": "https://gurusup.com/blog/best-multi-agent-frameworks-2026",
+          "snippet": "Orchestration model — LangGraph: directed graph with conditional edges. CrewAI: role-based crews with process types. OpenAI SDK: explicit handoffs. AutoGen/AG2: conversational GroupChat. Google ADK: hierarchical agent tree. Claude SDK: tool-use chain with sub-agents.\n State persistence — LangGraph: built-in checkpointing with time travel. OpenAI SDK: context variables (ephemeral by default). CrewAI: task outputs passed sequentially. AutoGen/AG2: conversation history (in-memory by default). ADK: "
+        },
+        {
+          "title": "The best open source frameworks for building AI agents in 2026",
+          "url": "https://www.firecrawl.dev/blog/best-open-source-agent-frameworks",
+          "snippet": "Ten open source agent frameworks compared: LangGraph, OpenAI Agents SDK, AutoGen, CrewAI, Google ADK, Dify, Mastra, Smolagents, Semantic Kernel, and Haystack\n LangGraph leads in enterprise adoption (34.5M monthly downloads), Dify leads in GitHub stars (144k)\n Smolagents (Hugging Face) is the fastest path to a single-agent loop; Semantic Kernel is the go-to for .NET/enterprise teams; Haystack is purpose-built for RAG pipelines\n Firecrawl's /agent endpoint handles web data collection for any frame"
+        }
+      ]
+    },
+    "agent_marketplaces": {
+      "purpose": "Agent marketplace landscape",
+      "query": "AI agent marketplace directory Claude Marketplace GPT Store MCP marketplace agent store skills registry 2026",
+      "answer": "The AI agent marketplace directory in 2026 includes eight major platforms: Skills.sh, SkillsMP, LobeHub, ClaudeSkills.info, MCP Market, Anthropic official directory, Claude Code plugin marketplaces, and Agensi. These platforms differ in catalog size, curation level, security review processes, creator payment options, and support for MCP live access. The practical blueprint for distribution involves publishing the same capability as a Skill, a GPT, an MCP server, and a Hugging Face Space with platform-specific tuning. The key takeaway is that discovery in these marketplaces is the real bottleneck for agency-built agents.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "AI Agent Marketplaces 2026: Discovery and Distribution",
+          "url": "https://www.digitalapplied.com/blog/ai-agent-marketplaces-2026-discovery-distribution",
+          "snippet": "Pricing Models Diverge Sharply: GPT Store pays revenue share on usage, Claude Skills is currently free distribution, Replit runs a direct-sale model, and Cloudflare bills on inference. The pricing model determines the business model.\n\nReview Rules Differ by Platform: Claude Skills and GPT Store have editorial review processes, MCP Hubs are community-run with no central gatekeeper, and Hugging Face Spaces publishes instantly with abuse reports handled post-hoc.\n\nMulti-Marketplace Is the Winning S"
+        },
+        {
+          "title": "7 AI Agent Skills Marketplaces in 2026 (Compared) | Agensi",
+          "url": "https://www.agensi.io/learn/best-ai-agent-skills-marketplaces-2026",
+          "snippet": "### Frequently Asked Questions\n\nThere are eight major AI agent skill marketplaces by Q2 2026: Skills.sh, SkillsMP, LobeHub, ClaudeSkills.info, MCP Market, Anthropic official directory, Claude Code plugin marketplaces, and Agensi.\n\nMarketplaces differ in catalog size, curation level, security review processes, creator payment options, and support for MCP (Microservice Compute Platform) live access.\n\nAgensi offers a curated marketplace where every skill undergoes an 8-point security scan and creat"
+        },
+        {
+          "title": "AI Agent Skill Marketplace 2026: Core Insights and Future Trends",
+          "url": "https://skywork.ai/slide/en/ai-agent-skill-marketplace-trends-2065028792280895488",
+          "snippet": "Marketplace Landscape: Competitive Comparison 2026 Strategic Intelligence Report // 2026.Q1 Marketplace Landscape: Competitive Comparison 2026 GPT Store Ranking Signal Engagement & Retention Focus on active user sessions and long-term skill stickiness. Friction Level High Strict Review Process Monetization Revenue Share Direct payout based on usage credits within the ecosystem. Claude Skills Ranking Signal Editorial Curation Human-in-the-loop selection based on technical excellence. Friction Lev"
+        },
+        {
+          "title": "Agent Distribution Wars 2026: GPT Store vs Claude Marketplace vs GitHub MCP | AgentMarketCap",
+          "url": "https://agentmarketcap.ai/blog/2026/04/07/agent-distribution-wars-openai-gpt-store-anthropic-plugins-github-marketplace",
+          "snippet": "As of Q1 2026, the battle lines are clear: OpenAI's GPT Store is the incumbent consumer play, Anthropic's Claude Marketplace is the aggressive enterprise challenger with a zero-commission model, and GitHub's MCP Registry is the developer-native dark horse betting that open standards beat walled gardens every time. The agentic AI market is already projected to hit $10.8 billion in 2026 and expand to nearly $200 billion by 2034 — but the critical question isn't who builds the best agents. It's who"
+        },
+        {
+          "title": "Claude Marketplace Launched: Anthropic's App Store for AI Agents (First Look)",
+          "url": "https://www.youtube.com/watch?v=pj6_09BXY0Y",
+          "snippet": "# Claude Marketplace Launched: Anthropic's App Store for AI Agents (First Look)\n## Channel: TechWealth Hub\n1.17K subscribers\n1 likes\n\n### Description\n88 views\nPosted: 2026-09-27\nOn September 23, 2026, Anthropic opened the Claude Marketplace: one catalog with three lanes. More than 2,000 connectors and plugins built on the open MCP and Agent Skills standards, 15 buyable Claude powered agents and products, and service partners to run the rollout. On September 25, Anthropic opened a self serve subm"
+        },
+        {
+          "title": "The State of AI Agent Skills 2026 · Skillselion",
+          "url": "https://skillselion.com/state-of-ai-agent-skills-2026",
+          "snippet": "Skip to content\n\nData report · 2026\n\n# The State of AI Agent Skills 2026\n\nAs of 2026, the Skillselion catalog tracks87,443 AI coding-agent tools - 64,756 agent skills, 9,891 MCP servers and 10,411 marketplaces - with 234M combined installs. Here's what the agent-tooling ecosystem looks like for developers shipping with Claude Code, Codex and Cursor.\n\nSource: the Skillselion catalog (skills.sh registry & GitHub), 2026.Data as of October 27, 2026.Free to cite with a link.\n\n87,443tools tracked\n\n234"
+        },
+        {
+          "title": "Agent Skills Marketplace in 2026: Anthropic vs Vercel vs OpenAI vs Cline vs MCP Compared - Totalum Blog",
+          "url": "https://www.totalum.app/blog/agent-skills-marketplaces-2026",
+          "snippet": "Francesc12 min read\n\nAn agent skills marketplace is a hosted directory where developers can publish, discover, install, and bundle reusable skills (capabilities, tools, prompts, or MCP servers) for AI coding agents. In the first week of June 2026, three vendors shipped on this thesis at the same time: Vercel made the skills.sh API generally available with 600,000 open-source skills, Cline released CLI 3.0.16 with plugin and skill bundling, and Anthropic announced Managed Agents with private MCP "
+        },
+        {
+          "title": "AI Agent Marketplace Landscape 2026: Full Breakdown | Agensi",
+          "url": "https://www.agensi.io/learn/ai-agent-marketplace-landscape-2026",
+          "snippet": "### Platform-native approaches\n\nAnthropic, OpenAI, and Google are all building agent capabilities into their own platforms. Anthropic has Claude's built-in skills system. OpenAI has the GPT Store and Agent Builder. Google has Gemini Extensions. These are walled-garden approaches, skills built for one platform don't work on others.\n\n## The open standard advantage\n\nThe SKILL.md open standard changes the marketplace dynamics. Unlike platform-specific approaches, SKILL.md skills work across every co"
+        }
+      ]
+    },
+    "agent_competitors": {
+      "purpose": "AISTORE competitor tracking",
+      "query": "AI tools directory TAAFT Toolify Futurepedia aiagentsdirectory mcp.so agent store marketplace traffic revenue 2026",
+      "answer": "The sources indicate that MCP.so is a third-party marketplace and directory for Model Context Protocol servers, clients, and other AI tools, organized into categories like Developer Tools and AI & Agents. Toolify is noted for its broad catalog of 26,000+ AI tools across 450+ categories, with unique features like revenue and traffic rankings. Futurepedia is highlighted for its educational context, offering 29 courses and 1,000+ lessons on real-world AI skills alongside its tool listings. The revenue and traffic data for these directories are not definitively provided in the sources.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "MCP Revenue: How to Price Your Content for AI Agents in 2026",
+          "url": "https://www.alien.club/blog/mcp-revenue-how-to-price-your-content-for-ai-agents-in-2026",
+          "snippet": "MCP Revenue: How to Price Your Content for AI Agents in 2026\n\nMCP Revenue: How to Price Your Content for AI Agents in 2026\n\nScroll for more\n\nScroll for more\n\nThe Model Context Protocol has won. Downloads of the MCP software development kit reached 97 million per month by March 2026, up from 100,000 at launch. 78% of enterprise AI teams already have MCP-backed agents in production. OpenAI, Google, Microsoft, and Salesforce all shipped support within 13 months.\n\nThe MCP revenue question is not set"
+        },
+        {
+          "title": "7 Best AI Tools Directories Compared (2026)",
+          "url": "https://medium.com/@miles_14662/7-best-ai-tools-directories-compared-2026-eaded0b35abb",
+          "snippet": "The weakness is honest: we’re new. The brand recognition isn’t there yet, the catalog has gaps, and we’re still building features. If you need maximum coverage today, TAAFT or Toolify will have more raw listings. If you want actual quality filtering and scenario-based guidance, Coda One is worth checking.\n\nBest for: Scenario-driven discovery, MCP servers, prompt templates.  \nPricing: Free during current phase.\n\n## The Bottom Line\n\nThere’s no single winner here because the directories are optimiz"
+        },
+        {
+          "title": "AI tool directories to submit to in 2026 | Grou",
+          "url": "https://grouglobal.com/blog/ai-tool-directories",
+          "snippet": "0 min read\n\n# AI tool directories to submit to in 2026\n\nThe AI tool directories worth submitting to in 2026 are There's An AI For That, Futurepedia and Toolify for reach, plus free listings on AlternativeTo, SaaSHub, TopAI.tools and FutureTools. Most big AI directories now charge for a listing, typically $50 to $200, and one 2026 test found around 40% of directories dead or broken. Pick a handful with real traffic, pay only where your buyers browse, and skip the long tail. [...] # AI tool direct"
+        },
+        {
+          "title": "Top 10 AI Tools Directories in 2026: Ranked by Quality, Depth, and Discovery Value | AIToolsRecap",
+          "url": "https://aitoolsrecap.com/Blog/top-10-ai-tools-directories-2026",
+          "snippet": "# Top 10 AI Tools Directories in 2026 — Ranked by Quality, Depth, and Who They're Actually For\n\nThe 10 best AI tools directories in 2026: There's An AI For That (#1, 12,000+ vetted), Futurepedia (#2, education and curation), Toolify (#3, 26,000+, revenue rankings), ToolDirectory.ai (#4, quarterly re-testing), AIToolsRecap (#5, 1,000+ tools, 200+ comparisons), RankMyAI, Product Hunt, AIxploria, AI Tool Hunt and Smol Launch. Choose by goal — catalog size, curation accuracy, free tools, or launches"
+        },
+        {
+          "title": "The top 100 AI tools directories in September 2026 | RankmyAI",
+          "url": "https://www.rankmyai.com/rankings/top-100-ai-tools-directories-overall",
+          "snippet": "N/A\n\n free\n\n Israel 20\n\nMCP.so \n\nMCP.so provides a third-party marketplace and directory for Model Context Protocol servers, clients, CLI tools, loops, skills, and agents, where users can search, browse, and submit listings. It also organizes entries into categories such as Developer Tools, AI & Agents, Cloud & Infrastructure, and Memory & Knowledge. \n\nN/A\n\n unknown\n\nUnknown 21\n\nAIPURE \n\nAIPURE is a directory that helps users find AI tools through intelligent search, category rankings, and verif"
+        },
+        {
+          "title": "AI Agents and Their Market Trends",
+          "url": "https://www.precedenceresearch.com/insights/ai-agent-market-trends-key-players-report",
+          "snippet": "| Date | July 22, 2026 |\n| Organization | ServiceNow, Inc. |\n| Development | ServiceNow declared its AI business crossed $1 billion in annual contract value during Q2 2026, along with total revenue of $3.99 billion (+24% YoY). |\n| What Changed | The management raised its full-year 2026 AI revenue forecast to nearly $1.5 billion, up 50% from its prior guidance, citing faster-than-anticipated Now Assist adoption. |\n| Why It Matters | It confirmed AI agent revenue had become a material, fast-growin"
+        },
+        {
+          "title": "AI Agent Marketplace & Directory | Find Top AI Agents & AI Agent Solutions",
+          "url": "https://aiagentsdirectory.com",
+          "snippet": "### Top 8 AI-Driven CDN Solutions in 2026\n\nCompare 8 AI-driven CDN solutions for 2026, covering traffic routing, bot management, semantic caching, edge inference, and the costs beyond bandwidth.\n\nSupport conversations become organized knowledge\n\n### 8 AI Knowledge Tools That Automatically Create and Structure Support Content\n\nCompare 8 AI knowledge tools for creating and organizing support content, with features for article generation, approval workflows, and customer self-service.\n\nShort Video "
+        },
+        {
+          "title": "10 Best AI Agent Marketplaces in 2026 (Find, Install, Hire, or List)",
+          "url": "https://instantdm.com/blog/best-ai-agent-marketplaces-2026",
+          "snippet": "These directories feed Claude Code, Codex, ChatGPT-compatible agents, and other runtimes that speak open skill or MCP formats. Index sizes in 2026 look huge. Treat “a million skills” as crawl size, not a million certified production agents. Most listings are free.\n\nUse it to add one capability: docs lookup, a browser, a ticket tool.\n\nSkip it if you still need a full business agent or a governed enterprise runtime.\n\nSkills directories only help if the runtime can call the tool. InstantDM exposes "
+        }
+      ]
+    },
+    "agent_trends": {
+      "purpose": "Agentic AI trends",
+      "query": "agentic AI trends 2026 MCP protocol A2A agent-to-agent multi-agent enterprise production deployment",
+      "answer": "The sources indicate that agentic AI trends in 2026 are heavily influenced by the adoption of standardized protocols like the Model Context Protocol (MCP) and the Agent-to-Agent (A2A) protocol. These protocols are establishing interoperability and composability standards for AI agents, enabling them to connect to tools and data (MCP) and communicate across different vendors and platforms (A2A). The A2A protocol has seen significant adoption, with over 150 organizations supporting it within its first year, and it is now used in production deployments across various sectors. The multi-agent AI ecosystem is increasingly relying on these protocols to ensure seamless communication and coordination among agents, which is critical for the success of multi-agent enterprise production deployments.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "7 Agentic AI Trends to Watch in 2026 - MachineLearningMastery.com",
+          "url": "https://machinelearningmastery.com/7-agentic-ai-trends-to-watch-in-2026",
+          "snippet": "## Navigating the Agentic Transition\n\nThe trends shaping 2026 represent more than incremental improvements. They signal a restructuring of how we build, deploy, and govern AI systems. The organizations that will thrive are those that recognize agentic AI isn’t about smarter automation. It’s about new architectures (multi-agent orchestration), new standards (MCP/A2A protocols), new economics (FinOps for agents), and new organizational capabilities (governance maturity, workflow redesign).\n\nFor ma"
+        },
+        {
+          "title": "A2A Protocol: How Google’s Agent-to-Agent Standard Is Reshaping Multi-Agent Enterprise Architecture in 2026 | Luby Software",
+          "url": "https://luby.co/blog/a2a-protocol-how-googles-agent-to-agent-standard-is-reshaping-multi-agent-enterprise-architecture-in-2026",
+          "snippet": "## Conclusion\n\nA2A’s first year tells a clear story: the market has decided that open, vendor-neutral agent interoperability is infrastructure, not a feature. With Linux Foundation stewardship, Azure and AWS integrations, and AP2 extending the stack into commerce, the protocol is past the point of being an experiment. For enterprise AI teams, the relevant question is no longer whether A2A will matter—it is whether your architecture is ready for the multi-agent systems that are already running in"
+        },
+        {
+          "title": "AI Agent Protocol Ecosystem Map 2026: Complete Visual",
+          "url": "https://www.digitalapplied.com/blog/ai-agent-protocol-ecosystem-map-2026-mcp-a2a-acp-ucp",
+          "snippet": "## Conclusion\n\nThe 2026 AI agent protocol ecosystem is more coherent than it appears from any single vendor perspective. MCP provides the universal tool access layer, A2A provides the agent coordination layer, and ACP and UCP handle the commerce transaction layer for open and Google-native environments respectively. The protocols compose rather than compete: a production enterprise agent system in 2026 will use multiple protocols simultaneously, each handling the communication type it was design"
+        },
+        {
+          "title": "MCP & Agent-to-Agent (A2A) Architecture: The Future of Enterprise Agentic AI",
+          "url": "https://www.linkedin.com/pulse/mcp-agent-to-agent-a2a-architecture-future-enterprise-agentic-ewtkc",
+          "snippet": "Published Jun 12, 2026\n\n+ Follow\n\nArtificial Intelligence is entering a new era. While large language models (LLMs) have transformed how businesses interact with information, the next wave of innovation extends beyond a single AI model responding to prompts. Enterprises now require intelligent systems capable of executing complex workflows, collaborating across multiple business functions, accessing enterprise data, and making autonomous decisions.\n\nThis evolution has given rise to Agentic AI—a "
+        },
+        {
+          "title": "Multi-Agent Communication Protocols 2026 | Zylos Research",
+          "url": "https://zylos.ai/research/2026-01-12-multi-agent-communication",
+          "snippet": "## Executive Summary\n\nThe multi-agent AI ecosystem has matured significantly with the emergence of standardized communication protocols. Five key protocols now dominate the landscape: A2A (Agent-to-Agent), MCP (Model Context Protocol), ACP (Agent Communication Protocol), ANP (Agent Network Protocol), and AG-UI (Agent-User Interaction). With 86% of enterprise copilot spending ($7.2B) going to agent-based systems and over 80% of enterprise workloads expected to use AI-driven systems by 2026, inter"
+        },
+        {
+          "title": "Building Production-Ready AI Agents in 2026 | MLflow",
+          "url": "https://mlflow.org/articles/building-production-ready-ai-agents-in-2026",
+          "snippet": "Open protocol standards prevent vendor lock-in and enable interoperability. Two worth knowing: the Model Context Protocol (MCP) standardizes how agents exchange context with tools and external systems, while the Agent-to-Agent (A2A) protocol governs communication between agents in multi-agent pipelines. Adopting these early is far less painful than retrofitting them after you've built custom communication layers.\n\nSecurity and compliance baseline must be established before deployment. The OWASP "
+        },
+        {
+          "title": "Google A2A Protocol in 2026: Adoption, Hype, and Reality - Rost Glukhov | AI Systems & Infrastructure",
+          "url": "https://www.glukhov.org/ai-systems/comparisons/a2a-protocol-2026-adoption",
+          "snippet": "My practical recommendation is to start with MCP, design clean agent boundaries from the beginning, and add A2A only when those boundaries become real deployment, ownership, or interoperability constraints. Do not adopt A2A for vibes. Adopt it when the architecture demands it.\n\n## Final Verdict\n\nGoogle’s A2A protocol is not dead.\n\nIt is also not the universal future of every AI agent project.\n\nIt is a useful, still-maturing protocol for a specific problem: communication between independent AI ag"
+        },
+        {
+          "title": "AI Agent Protocols 2026: Standardizing AI Communication",
+          "url": "https://www.ruh.ai/blogs/ai-agent-protocols-2026-complete-guide",
+          "snippet": "Real-World Application: IoT device management where thousands of sensors need simple HTTP communication without heavy protocol libraries.\n\nFor organizations implementing agentic browser automation, ACP's simplicity enables rapid deployment.\n\n## MCP vs A2A vs ACP: Decision Framework\n\nChoosing the right protocol depends on specific use cases:\n\nQuick Selection Guide\n\nUse MCP when:\n\n Building sophisticated agents accessing many data sources\n Context management is critical\n Compliance and security ar"
+        }
+      ]
+    },
+    "agent_china": {
+      "purpose": "China agent market",
+      "query": "AI Agent市场 中国 智能体平台 2026 Coze 扣子 元器 Manus 竞争格局 市场规模",
+      "answer": "According to the sources, the AI Agent market in China in 2026 is highly competitive, with major players like Manus, Coze, and various enterprise-level AI agents from companies like Baidu and Alibaba. Manus, despite its controversies and blocked acquisition by Meta, remains a significant player, focusing on long-running autonomy and complex task execution. Coze, from ByteDance, has gained popularity for its office automation capabilities. The market is also seeing a surge in AI agent development platforms from tech giants, aiming to leverage AI for business process optimization and productivity enhancement. IDC predicts substantial growth in the Chinese AI agent market, with a significant portion of enterprises adopting these technologies to streamline operations and achieve cost savings.",
+      "result_count": 8,
+      "snippets": [
+        {
+          "title": "押注Agent，大厂的AI中场战事-36氪",
+          "url": "https://m.36kr.com/p/3343147166197248",
+          "snippet": "Manus被国内外推崇者称为技术神话，可国内市场并不认可Manus的努力。\n\nManus在营销动作上陷入争议，有人认为Manus此前数量稀缺的测试邀请码，是精心策划炒作出来的饥饿营销。\n\n最令国内市场难以接受的，是Manus为“套壳”产品。国内AI市场向来把自研大模型奉为圭臬，而Manus没有自研大模型，在国外用的Anthropic的Claude，在国内用的是阿里的通义千问，功能来自多个应用的拼接，这在多数人眼里，属于放弃了自己的核心竞争力，没有护城河。\n\n可对海外硅谷来说，Manus的“套壳”恰恰是其优势。因为Manus 解决了 AI 的最后一公里问题，即使没有进行底层模型的研发，从应用层进行创新也非常重要，海外投资者认为Manus本身就是一个重要的技术进步。\n\n而Manus的进步基于CodeAct框架对智能Agent进行了革命性的技术升级，使其具备三大核心能力，一是能够直接执行Python代码来完成高度复杂的任务，二是可以根据任务需求实时动态调整行动策略，三是实现了智能体的自我调节与优化功能。本质上来说这是一种技术创新，解锁了新的AI应用方向。Manus不仅快速拿到融资在海外混得风"
+        },
+        {
+          "title": "一文读懂企业级 AI Agent 平台：价值体系、主流分类、技术趋势与选型指南_凤凰网",
+          "url": "https://tech.ifeng.com/c/8wHTDAExUQI",
+          "snippet": "一文读懂企业级 AI Agent 平台：价值体系、主流分类、技术趋势与选型指南\n\n# 一文读懂企业级 AI Agent 平台：价值体系、主流分类、技术趋势与选型指南\n\n来自北京\n\n2026 年,企业级 AI Agent 正式从技术概念验证迈入规模化落地的关键阶段,成为当前企业数字化转型中确定性较高的投入方向。\n\n从全球市场看,Gartner 预测,2026 年底全球 40% 的企业应用将内置任务型 AI 智能体;从中国市场看,IDC 数据显示,2025 年中国企业级 AI 智能体市场规模达 212 亿元,2026 年预计增至 449 亿元,同比增长超 110%。而在已落地智能体的企业中,投资回报表现普遍较好,多数企业在部署首年实现成本回收,技术价值与业务价值已得到充分验证。\n\n本文将从价值体系、主流品类、技术趋势、选型方法论四个核心维度,系统拆解企业级 AI Agent 平台,重点结合国内产业实践,为企业选型与落地提供清晰参考。\n\n一、企业级 AI Agent 是什么?\n\n企业级 AI Agent 是以大模型为核心,融合感知理解、记忆迭代、推理规划、工具执行四大核心能力,可深度适配复杂"
+        },
+        {
+          "title": "What Is Manus AI? The General AI Agent, Explained (2026)",
+          "url": "https://ssojet.com/blog/what-is-manus-ai-agent-explained",
+          "snippet": "A few details matter. Annual billing saves about 17%, monthly credits do not roll over, and consumption runs in the range of roughly 11 to 14 credits per minute depending on task complexity. Pricing has changed several times since launch and credit costs are genuinely hard to predict, so treat the Manus pricing page as the source of truth and run the free tier before committing. Billing predictability is one of the most common user complaints.\n\n## How is Manus different from ChatGPT and other AI"
+        },
+        {
+          "title": "大厂竞逐Agent：新一轮AI话语权争夺战 - 21经济网",
+          "url": "https://www.21jingji.com/article/20250520/herald/aef7dd5e63eecd45f8b51ed49443e627.html",
+          "snippet": "图源：同花顺截图\n\n司普科技CEO张振广曾对36氪表示，B端是AI初期创造价值的重心领域，C端应用极容易被大模型技术进步直接颠覆。二者在落地上的难度差异，也引发了不少从业者调侃，“B端Agent已经是生产力了，通用Agent还在小孩那桌。”\n\n有不少普通开发者，甚至零基础的小白也瞄准了B端Agent的生意。社媒平台上，有开发者分享自己做Agent应用赚到钱的经过，接到了十几个Agent的定制单，已经赚了5万多元。还有用户发布“小红书自动发文”的智能体定制需求，表示收到了3-6万元的报价。\n\n# 03.智能体元年来了？\n\n据“趣解商业”了解，当下智能体的开发门槛并不高。通过零代码、低代码开发框架和丰富的插件，甚至普通用户也能迅速上手做自己的智能体。\n\n最近一年，腾讯、百度、阿里等头部公司除了做通用Agent，也在推广自家的智能体开发平台，吸引更多开发者来自家平台上“掘金”。根据Xsignal的报告，截至2025年一季度Agent（文心一言）的应用总数已超过10万，Agent（Coze）数量接近4万，远超其他类型的AI应用。\n\n图源：Xsignal\n\n李彦宏曾多次公开提到，未来将是“只靠想"
+        },
+        {
+          "title": "生态与产业价值重构，IDC发布中国AI Agent市场剖析及厂商推荐研究报告",
+          "url": "https://mfe-prod.idc.com/getdoc.jsp?containerId=prCHC53328625",
+          "snippet": "报告中，IDC对Agentic AI进行了明确的划分与定义，即机器学习和深度学习技术的子集，使计算机系统能够表现出能动性：通过感知、推理和行动循环设定目标、做出决定和采取行动。 A diagram of a data analysis\n\nAI-generated content may be incorrect.\n\nA diagram of a data analysis AI-generated content may be incorrect.\n\nShare the image\n\n解释说明：Agentic AI是系统，由多个智能体协同合作，相互学习，在更复杂的问题中辅助决策和采取行动；而AI Agent是能够独立处理特定任务的软件实体。通过AI Agent可以实现Agentic AI。\n\n同时报告揭示了中国AI Agent产业发展的深层逻辑，当技术成熟度突破临界点后，AI Agent将从概念验证转向价值创造，其核心矛盾已从技术可行性验证转向生态控制权争夺与产业价值重构。\n\n当前AI Agent生态系统可分为三类：一是掌握算力与数据入口的基础模型厂商，通过构建底层技术架构主导生态规则"
+        },
+        {
+          "title": "2026企业智能体开发平台评测：十大主流平台横向对比与推荐",
+          "url": "https://zhuanlan.zhihu.com/p/2025269136343798676",
+          "snippet": "4. 腾讯元器 —— 腾讯生态智能体构建器\n\n腾讯元器依托腾讯混元大模型，提供零代码的智能体搭建体验，可一键发布到微信、QQ等腾讯系应用。适合希望利用微信生态触达C端用户的企业，如社群运营、私域客服、活动推广等场景。\n\n5. Coze（扣子） —— 零门槛智能体快速搭建平台\n\nCoze提供图形化界面和拖拽式工作流，极大降低开发门槛，适合业务人员快速构建应用。插件市场丰富，支持知识库、联网搜索、代码执行等能力。是个人开发者和中小企业快速入门智能体的理想选择。\n\n6. Dify —— 开源灵活的智能体开发框架\n\nDify具备极高成熟度，适合追求快速部署和低代码交付的业务部门。开源特性让企业可以深度定制和二次开发。其工作流编排能力强大，支持RAG管道和模型微调，在技术团队能力较强的企业中使用广泛。\n\n7. 百度千帆AppBuilder —— 一站式AI原生应用开发\n\n百度千帆AppBuilder背靠文心大模型，提供组件化开发方式，支持知识库问答、对话式应用、智能体等多种形态。与百度智能云生态深度融合，适合需要调用百度AI能力（如语音识别、图像识别）的应用。\n\n8. 钉钉AI助理 —— 办公协"
+        },
+        {
+          "title": "2026 企业智能体开发平台评测：八大主流平台横向对比原创",
+          "url": "https://blog.csdn.net/u011712942/article/details/160145902",
+          "snippet": "Apr 14, 2026 — 据IDC 数据，2026 年中国企业级智能体市场规模突破186 亿元，年增速58%，头部平台占据75% 市场份额。企业选型核心痛点集中在：开发门槛、数据安全、系统 ...Read more"
+        },
+        {
+          "title": "10 Best AI Agents in 2026, Reviewed and Compared",
+          "url": "https://manus.im/id/blog/best-ai-agents",
+          "snippet": "If your work lives in a specific ecosystem, start there. Developers already in VS Code get the most from Cursor, Salesforce teams from Agentforce, and heavy ChatGPT users from Agent mode. The integration matters more than the feature list, because a tool you don't have to change your habits for is the one you'll actually use.\n\nIf the value is in doing something new, match the tool to the gap. Non-technical professionals who could never ship a web app or run deep multi-source research can now do "
+        }
+      ]
+    }
+  }
+}
